@@ -63,16 +63,16 @@ Domain Input
 
 ```bash
 git clone https://github.com/alisanaik/leadagent.git
-cd lead_enrichment_agent
+cd Leadagent
 
 # Create and activate a virtual environment
-python -m venv venv
+python -m venv aenv
 
 # Windows
-venv\Scripts\activate
+aenv\Scripts\activate
 
 # Mac/Linux
-source venv/bin/activate
+source aenv/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt
@@ -117,7 +117,7 @@ del cache.db    # Windows
 ## Project Structure
 
 ```text
-lead_enrichment_agent/
+Leadagent/
 ├── .env.example               # Template for environment variables
 ├── .gitignore
 ├── README.md
