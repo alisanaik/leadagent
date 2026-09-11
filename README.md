@@ -62,7 +62,7 @@ Domain Input
 ### Installation
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/alisanaik/leadagent.git
 cd lead_enrichment_agent
 
 # Create and activate a virtual environment
