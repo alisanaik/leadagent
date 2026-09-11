@@ -1,0 +1,115 @@
+[
+  {
+    "company_overview": "Postman is an API platform that enables developers to build, test, and manage APIs. It provides a collaborative environment for API development and testing.",
+    "target_audience": "Developers building APIs",
+    "contact_emails": [
+      "info@postman.com",
+      "info-jp@postman.com",
+      "help@postman.com",
+      "accommodations@postman.com"
+    ],
+    "leadership": [
+      {
+        "name": "Abhinav Asthana",
+        "role": "CEO/Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/abhinavasthana"
+      },
+      {
+        "name": "Ankit Sobti",
+        "role": "CTO/Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/ankit-sobti"
+      },
+      {
+        "name": "Abhijit Kane",
+        "role": "Product Architect/Co-Founder",
+        "linkedin_url": "https://in.linkedin.com/in/abhijitkane"
+      }
+    ],
+    "confidence_score": 0.9,
+    "hallucination_score": 0.0,
+    "source_url": "https://postman.com",
+    "_usage": {
+      "stages": [
+        {
+          "model": "openai/gpt-oss-20b",
+          "prompt_tokens": 2672,
+          "completion_tokens": 774,
+          "total_tokens": 3446
+        }
+      ],
+      "total_prompt_tokens": 2672,
+      "total_completion_tokens": 774,
+      "total_tokens": 3446,
+      "groq_cost_usd": 0.0,
+      "openai_reference_cost_usd": 0.000865
+    }
+  },
+  {
+    "company_overview": "Supabase is an open-source Postgres development platform that offers a suite of backend services—including databases, authentication, realtime data sync, vector search, and APIs—to help developers build and scale applications.",
+    "target_audience": "Developers and product teams building web, mobile, and AI applications.",
+    "contact_emails": [
+      "legal@supabase.com",
+      "privacy@supabase.com",
+      "abuse@supabase.com",
+      "security@supabase.com",
+      "help-events@supabase.com"
+    ],
+    "leadership": [],
+    "confidence_score": 0.85,
+    "hallucination_score": 0.2,
+    "source_url": "https://supabase.com",
+    "_usage": {
+      "stages": [
+        {
+          "model": "openai/gpt-oss-20b",
+          "prompt_tokens": 3636,
+          "completion_tokens": 690,
+          "total_tokens": 4326
+        },
+        {
+          "model": "openai/gpt-oss-120b",
+          "prompt_tokens": 4168,
+          "completion_tokens": 657,
+          "total_tokens": 4825
+        }
+      ],
+      "total_prompt_tokens": 7804,
+      "total_completion_tokens": 1347,
+      "total_tokens": 9151,
+      "groq_cost_usd": 0.0,
+      "openai_reference_cost_usd": 0.001979
+    }
+  },
+  {
+    "company_overview": "Vapi is a platform that enables developers to build, deploy, and manage advanced voice AI agents. It provides orchestration, real‑time monitoring, and enterprise‑grade configurability for scalable voice solutions.",
+    "target_audience": "Developers and engineering teams building voice AI agents.",
+    "contact_emails": [
+      "Talent@vapi.ai"
+    ],
+    "leadership": [
+      {
+        "name": "Jason Mitura",
+        "role": "VP of Software Development",
+        "linkedin_url": null
+      }
+    ],
+    "confidence_score": 0.8,
+    "hallucination_score": 0.0,
+    "source_url": "https://vapi.ai",
+    "_usage": {
+      "stages": [
+        {
+          "model": "openai/gpt-oss-20b",
+          "prompt_tokens": 3188,
+          "completion_tokens": 612,
+          "total_tokens": 3800
+        }
+      ],
+      "total_prompt_tokens": 3188,
+      "total_completion_tokens": 612,
+      "total_tokens": 3800,
+      "groq_cost_usd": 0.0,
+      "openai_reference_cost_usd": 0.000845
+    }
+  }
+]
